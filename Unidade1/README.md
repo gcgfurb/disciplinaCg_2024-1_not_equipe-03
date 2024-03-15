@@ -6,7 +6,7 @@ Nota:
 
 ## Assunto: Percepção Visual
 
-[Equipe-01.pdf](Equipe-01.pdf)  
+[Slides.pdf](Slides.pdf)  
 
 Na UFEGS tivemos 2 disciplinas ... apareceu em algumas aulas um oftalmologista. Falou de onde veio o RGB.  
 TCC da Marlize .. exemplos.  
