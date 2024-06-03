@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../CG_Biblioteca"
+		}
+	],
+	"settings": {
+		"plantuml.commandArgs": [],
+		"plantuml.diagramsRoot": "/Users/sanarocha/Desktop/Comp Grafica/Unidade03/CG_N3/diagrama",
+		"plantuml.exportFormat": "svg",
+		"plantuml.exportOutDir": "/Users/sanarocha/Desktop/Comp Grafica/Unidade03/CG_N3/diagrama"
+	}
+}

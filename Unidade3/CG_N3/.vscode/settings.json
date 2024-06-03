@@ -1,0 +1,6 @@
+{
+  "dotnet.defaultSolution": "CG_N3_Exemplo.sln",
+  "plantuml.commandArgs": [],
+  "plantuml.diagramsRoot": "../CG_N3_Exemplo/diagrama",
+  "plantuml.exportOutDir": "../CG_N3_Exemplo/diagrama"
+}
